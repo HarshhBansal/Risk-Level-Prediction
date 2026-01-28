@@ -167,8 +167,10 @@ python Randomforest.py
 python Supportvectormachine.py
 python Xg_Boost.py
 
-🎯 Applications
+Results
+![Output](results/results.png)
 
+🎯 Applications
 Risk assessment systems
 Healthcare decision support
 Insurance and financial risk analysis
